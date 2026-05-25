@@ -80,7 +80,7 @@
 
 ## 🎯 Introduction
 
-Welcome to the **Prepaaring For CTF** — a community-driven, open-source learning academy built by **C!p#3r Club IIST** for students who want to break into cybersecurity from absolute zero.
+Welcome to the **Preparing For CTF** — a community-driven, open-source learning academy built by **C!p#3r Club IIST** for students who want to break into cybersecurity from absolute zero.
 
 Whether you've never opened a terminal or you're trying to win your first CTF, this roadmap will guide you **step by step**, with curated free resources, hands-on labs, and everything you need to participate confidently in the **National Level CTF**.
 
