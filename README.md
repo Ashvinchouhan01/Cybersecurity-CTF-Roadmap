@@ -146,7 +146,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 1 — Computer Basics
 
-> ⏱️ Estimated Time: **1–2 weeks** | 📁 [Full Notes →](docs/phases/01-computer-basics.md)
+> ⏱️ Estimated Time: **1–2 weeks** | 📁 
 
 <details>
 <summary><b>📋 Topics & Checklist</b></summary>
@@ -170,7 +170,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 2 — Networking Fundamentals
 
-> ⏱️ Estimated Time: **2 weeks** | 📁 [Full Notes →](docs/phases/02-networking.md)
+> ⏱️ Estimated Time: **2 weeks** | 📁 
 
 <details>
 <summary><b>📋 Topics & Checklist</b></summary>
@@ -196,8 +196,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 3 — Linux Fundamentals
 
-> ⏱️ Estimated Time: **2 weeks** | 📁 [Full Notes →](docs/phases/03-linux.md)
-
+> ⏱️ Estimated Time: **2 weeks** | 📁
 <details>
 <summary><b>📋 Topics & Checklist</b></summary>
 
@@ -226,7 +225,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 4 — Programming Basics
 
-> ⏱️ Estimated Time: **2 weeks** | 📁 [Full Notes →](docs/phases/04-programming.md)
+> ⏱️ Estimated Time: **2 weeks** | 📁 
 
 <details>
 <summary><b>📋 Topics & Checklist</b></summary>
@@ -259,7 +258,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 5 — Web Fundamentals
 
-> ⏱️ Estimated Time: **1 week** | 📁 [Full Notes →](docs/phases/05-web-fundamentals.md)
+> ⏱️ Estimated Time: **1 week** | 📁
 
 <details>
 <summary><b>📋 Topics & Checklist</b></summary>
@@ -285,7 +284,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 6 — Cybersecurity Basics
 
-> ⏱️ Estimated Time: **1 week** | 📁 [Full Notes →](docs/phases/06-cybersecurity-basics.md)
+> ⏱️ Estimated Time: **1 week** | 📁 
 
 <details>
 <summary><b>📋 Topics & Checklist</b></summary>
@@ -312,7 +311,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 7 — CTF Categories
 
-> ⏱️ Estimated Time: **Ongoing** | 📁 [Full Guide →](docs/ctf/ctf-preparation.md)
+> ⏱️ Estimated Time: **Ongoing** | 📁 
 
 <details>
 <summary><b>📋 CTF Category Overview</b></summary>
@@ -334,8 +333,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 8 — Practical Labs
 
-> ⏱️ Estimated Time: **Ongoing** | 📁 [Full Guide →](docs/phases/08-practical-labs.md)
-
+> ⏱️ Estimated Time: **Ongoing** | 📁
 <details>
 <summary><b>🏋️ Practice Platforms — Start Here</b></summary>
 
@@ -363,8 +361,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ### Phase 9 — Advanced Topics
 
-> ⏱️ Estimated Time: **Ongoing** | 📁 [Docs →](docs/phases/09-advanced-topics.md)
-
+> ⏱️ Estimated Time: **Ongoing** | 📁
 <details>
 <summary><b>📋 Advanced Topics Overview</b></summary>
 
@@ -424,7 +421,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 
 ## 🛠️ Tools to Learn
 
-> 📁 Full installation guide → [docs/tools/tools-installation.md](docs/tools/tools-installation.md)
+> 📁 Full installation guide →
 
 ### Reconnaissance & Scanning
 
@@ -540,7 +537,7 @@ pip3 install ropgadget
 
 ## 🌐 Web Security Basics
 
-> 📁 Full notes → [docs/web/web-security.md](docs/web/web-security.md)
+> 📁 Full notes →
 
 ### OWASP Top 10 — Know These Cold
 
@@ -574,7 +571,7 @@ JWT:             Modify algorithm to "none" or crack weak secret
 
 ## ⚙️ Reverse Engineering Basics
 
-> 📁 Full notes → [docs/reversing/reverse-engineering.md](docs/reversing/reverse-engineering.md)
+> 📁 Full notes →
 
 ### What is Reverse Engineering?
 
@@ -606,7 +603,7 @@ gdb binary           # Debug
 
 ## 🔍 Forensics Basics
 
-> 📁 Full notes → [docs/forensics/forensics.md](docs/forensics/forensics.md)
+> 📁 Full notes → 
 
 ### CTF Forensics Categories
 
@@ -642,7 +639,7 @@ strings image.png | grep -i "flag\|ctf\|password"
 
 ## 🔐 Cryptography Basics
 
-> 📁 Full notes → [docs/crypto/cryptography.md](docs/crypto/cryptography.md)
+> 📁 Full notes → 
 
 ### Common CTF Ciphers
 
@@ -680,7 +677,7 @@ print(bytes.fromhex(hex(m)[2:]))
 
 ## 🕵️ OSINT Basics
 
-> 📁 Full notes → [docs/osint/osint.md](docs/osint/osint.md)
+> 📁 Full notes → 
 
 ### What is OSINT?
 
@@ -720,7 +717,7 @@ Domain Info:
 
 ## 🚀 Privilege Escalation
 
-> 📁 Full notes → [docs/pwn/privilege-escalation.md](docs/pwn/privilege-escalation.md)
+> 📁 Full notes →
 
 ### Linux Privilege Escalation Checklist
 
@@ -764,7 +761,7 @@ chmod +x LinEnum.sh && ./LinEnum.sh
 
 ## 🏢 Active Directory Basics
 
-> 📁 Full notes → [docs/phases/09-advanced-topics.md](docs/phases/09-advanced-topics.md)
+> 📁 Full notes →
 
 Active Directory (AD) is a directory service used in Windows enterprise networks. It's heavily tested in CTF competitions.
 
@@ -789,7 +786,7 @@ Active Directory (AD) is a directory service used in Windows enterprise networks
 
 ## 🐛 Bug Bounty Basics
 
-> 📁 Full notes → [docs/career/bug-bounty.md](docs/career/bug-bounty.md)
+> 📁 Full notes → 
 
 Bug bounty is a program where companies pay you for finding security vulnerabilities.
 
@@ -810,7 +807,7 @@ Bug bounty is a program where companies pay you for finding security vulnerabili
 
 ## 💼 Career Guidance
 
-> 📁 Full notes → [docs/career/career-roadmap.md](docs/career/career-roadmap.md)
+> 📁 Full notes →
 
 ### Cybersecurity Career Paths
 
@@ -839,7 +836,7 @@ CTF Player / Competitor             SIEM Engineer
 
 ## 🏅 Certifications Roadmap
 
-> 📁 Full notes → [docs/career/certifications.md](docs/career/certifications.md)
+> 📁 Full notes →
 
 ### Free / Affordable Certifications
 
@@ -866,7 +863,7 @@ Advanced Level:
 
 ## 🐧 Linux & Networking Basics
 
-> 📁 Full cheatsheet → [docs/cheatsheets/linux-cheatsheet.md](docs/cheatsheets/linux-cheatsheet.md)
+> 📁 Full cheatsheet →
 
 ### Essential Linux Commands for CTF
 
