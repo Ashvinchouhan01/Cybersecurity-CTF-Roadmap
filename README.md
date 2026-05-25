@@ -14,7 +14,7 @@
 
 ### *From Zero to CTF Hero — A Complete Beginner's Guide*
 
-> **Organized by [C!p#3r Club IIST](https://github.com/CipherClubIIST)** | *Decode · Defend · Dominate*
+> **Organized by [C!p#3r Club IIST]([https://www.linkedin.com/company/cipherclub-iist])** | *Decode · Defend · Dominate*
 
 ---
 
@@ -1029,7 +1029,7 @@ You are free to use, share, and build on this work — just give credit to **C!p
 
 *Decode · Defend · Dominate*
 
-[![GitHub](https://img.shields.io/badge/GitHub-CipherClubIIST-black?style=for-the-badge&logo=github)](https://github.com/CipherClubIIST)
+[![GitHub](https://img.shields.io/badge/GitHub-CipherClubIIST-black?style=for-the-badge&logo=github)](https://github.com/Ashvinchouhan01)
 [![Instagram](https://img.shields.io/badge/Instagram-@CipherClubIIST-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/CipherClubIIST)
 
 ---
