@@ -2,7 +2,7 @@
 <div align="center">
 
                               ```
-                               ██████╗██╗██████╗ #██████╗ ██████╗      ██████╗██╗     ██╗   ██╗██████╗
+                               ██████╗██╗██████╗ #██████╗ ██████╗     ██████╗██╗     ██╗   ██╗██████╗
                               ██╔════╝██║██╔══██╗╚════██╗██╔══██╗    ██╔════╝██║     ██║   ██║██╔══██╗
                               ██║     ██║██████╔╝ █████╔╝██████╔╝    ██║     ██║     ██║   ██║██████╔╝
                               ██║     ██║██╔═══╝  ╚═══██╗██╔══██╗    ██║     ██║     ██║   ██║██╔══██╗
@@ -82,7 +82,7 @@
 
 Welcome to the **Cybersecurity CTF Roadmap** — a community-driven, open-source learning academy built by **C!p#3r Club IIST** for students who want to break into cybersecurity from absolute zero.
 
-Whether you've never opened a terminal or you're trying to win your first CTF, this roadmap will guide you **step by step**, with curated free resources, hands-on labs, and everything you need to participate confidently in the **National Level CTF** organized at IIST campus.
+Whether you've never opened a terminal or you're trying to win your first CTF, this roadmap will guide you **step by step**, with curated free resources, hands-on labs, and everything you need to participate confidently in the **National Level CTF**.
 
 > 💬 *"The best time to start learning cybersecurity was yesterday. The second best time is right now."*
 
@@ -96,7 +96,7 @@ Most cybersecurity resources online are:
 - ❌ Too advanced for absolute beginners
 - ❌ Not CTF-focused
 
-This repository exists to fix that. We built a **structured, free, beginner-first roadmap** so every IIST student — regardless of branch or background — can learn cybersecurity and compete in CTF challenges with confidence.
+This repository exists to fix that. We built a **structured, free, beginner-first roadmap** so every student — regardless of branch or background — can learn cybersecurity and compete in CTF challenges with confidence.
 
 ---
 
@@ -107,7 +107,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 | 🧑‍🎓 A college student with no CS background | A complete path from scratch |
 | 💻 Someone who just learned to code | CTF-specific security skills |
 | 🔍 Curious about ethical hacking | Structured beginner labs |
-| 🏆 Preparing for IIST CTF | Challenge-specific guides |
+| 🏆 Preparing for CTF | Challenge-specific guides |
 | 🌍 Student from another college | Open community to join |
 
 ---
@@ -1040,7 +1040,7 @@ You are free to use, share, and build on this work — just give credit to **C!p
 
 ---
 
-# 🧰 Recommended Beginner CTF Resources
+# 🧰 Recommended Beginner Resources
 
 ## ⭐ Community Recommended Repository
 
