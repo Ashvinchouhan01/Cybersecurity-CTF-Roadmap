@@ -14,7 +14,7 @@
 
 ### *From Zero to CTF Hero — A Complete Beginner's Guide*
 
-> **Organized by [C!p#3r Club IIST]([https://www.linkedin.com/company/cipherclub-iist/])** | *Decode · Defend · Dominate*
+> **M [C!p#3r Club IIST]([https://www.linkedin.com/company/cipherclub-iist/])** | *Decode · Defend · Dominate*
 
 ---
 
@@ -136,7 +136,7 @@ This repository exists to fix that. We built a **structured, free, beginner-firs
 │       ↓                                                 │
 │  [9] Advanced Topics ──────────────────────► Ongoing   │
 │       ↓                                                 │
-│  [🏆] COMPETE IN IIST CTF!                             │
+│     [🏆]                                               │
 └─────────────────────────────────────────────────────────┘
 ```
 
