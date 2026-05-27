@@ -14,7 +14,7 @@
 
 ### *From Zero to CTF Hero — A Complete Beginner's Guide*
 
-> **M [C!p#3r Club IIST]([https://www.linkedin.com/company/cipherclub-iist/])** | *Decode · Defend · Dominate*
+> **Created by [C!p#3r Club IIST]([https://www.linkedin.com/company/cipherclub-iist/])** | *Decode · Defend · Dominate*
 
 ---
 
